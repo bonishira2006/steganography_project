@@ -51,8 +51,9 @@ python decode.py
 ---
 
 ⚠️ Important Notes
-Always use PNG or other lossless formats. Do not use .jpg, as it compresses the image and may corrupt the hidden data.
 
-Do not edit or re-save output.png in apps like Paint or WhatsApp — they may alter pixel data and break decoding.
+- Always use PNG or other lossless formats. Do not use .jpg, as it compresses the image and may corrupt the hidden data.
 
-You can share output.png with someone else, and they can decode it with decode.py.
+- Do not edit or re-save output.png in apps like Paint or WhatsApp — they may alter pixel data and break decoding.
+
+- You can share output.png with someone else, and they can decode it with decode.py.
