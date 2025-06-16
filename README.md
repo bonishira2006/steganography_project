@@ -25,6 +25,7 @@ This project allows you to hide (encode) and extract (decode) secret messages in
 - [Pillow](https://pypi.org/project/Pillow/) (Python Imaging Library)
 
 Install required package:
+
 pip install pillow
 
 ---
