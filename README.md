@@ -31,6 +31,7 @@ pip install pillow
 ---
 
 📥 How to Use
+
 🔒 Encode a Message
 - Place a .png image in the project directory named input.png (or change the filename in encode.py).
 
